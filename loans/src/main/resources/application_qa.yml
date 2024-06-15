@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+loans:
+  message: "welcome to giitbank loans related qa APIs"
+  contactDetails:
+    name: "Rakesh kumar QA lead"
+    email: "Rakesh@gmail.com"
+  onCallSupport:
+    -(91) 872345790
+    -(91) 826534679
